@@ -6,6 +6,6 @@ env:
   - PORT=7777
 node_js:
   - "5.1"
-  - "4"
+  #- "4"
   #- "0.12" # this will fail thie build
   #- "iojs"
